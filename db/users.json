@@ -1,0 +1,319 @@
+{
+  "users": [
+    {
+      "nick": "usr_nick",
+      "name": "usr_name",
+      "surname": "usr_surname",
+      "password": "oiuytrew",
+      "dob": "usr_dateOfBrith",
+      "group": "group 1",
+      "id": 17
+    },
+    {
+      "nick": "usr_nick",
+      "name": "usr_name",
+      "surname": "usr_surname",
+      "password": "",
+      "dob": "usr_dateOfBrith",
+      "group": "group 1",
+      "id": 18
+    },
+    {
+      "nick": "OLO",
+      "name": "Miro",
+      "surname": "Jaro",
+      "password": "qwetyui",
+      "dob": "12-12-12",
+      "group": "group 2",
+      "id": 19
+    },
+    {
+      "nick": "usr_nick",
+      "name": "usr_name",
+      "surname": "usr_surname",
+      "password": "",
+      "dob": "usr_dateOfBrith",
+      "group": "group 1",
+      "id": 20
+    },
+    {
+      "nick": "usr_nick",
+      "name": "usr_name",
+      "surname": "usr_surname",
+      "password": "",
+      "dob": "usr_dateOfBrith",
+      "group": "group 1",
+      "id": 21
+    },
+    {
+      "nick": "usr_nick",
+      "name": "usr_name",
+      "surname": "usr_surname",
+      "password": "",
+      "dob": "usr_dateOfBrith",
+      "group": "group 1",
+      "id": 22
+    },
+    {
+      "nick": "usr_nick",
+      "name": "usr_name",
+      "surname": "usr_surname",
+      "password": "",
+      "dob": "usr_dateOfBrith",
+      "group": "group 1",
+      "id": 23
+    },
+    {
+      "nick": "usr_nick",
+      "name": "usr_name",
+      "surname": "usr_surname",
+      "password": "",
+      "dob": "usr_dateOfBrith",
+      "group": "group 1",
+      "id": 24
+    },
+    {
+      "nick": "usr_nick",
+      "name": "usr_name",
+      "surname": "usr_surname",
+      "password": "",
+      "dob": "usr_dateOfBrith",
+      "group": "group 1",
+      "id": 25
+    },
+    {
+      "nick": "usr_nick",
+      "name": "usr_name",
+      "surname": "usr_surname",
+      "password": "",
+      "dob": "usr_dateOfBrith",
+      "group": "group 1",
+      "id": 26
+    },
+    {
+      "nick": "usr_nick",
+      "name": "usr_name",
+      "surname": "usr_surname",
+      "password": "",
+      "dob": "usr_dateOfBrith",
+      "group": "group 1",
+      "id": 27
+    },
+    {
+      "nick": "usr_nick",
+      "name": "usr_name",
+      "surname": "usr_surname",
+      "password": "",
+      "dob": "usr_dateOfBrith",
+      "group": "group 1",
+      "id": 28
+    },
+    {
+      "nick": "usr_nick",
+      "name": "usr_name",
+      "surname": "usr_surname",
+      "password": "",
+      "dob": "usr_dateOfBrith",
+      "group": "group 1",
+      "id": 29
+    },
+    {
+      "nick": "usr_nick",
+      "name": "usr_name",
+      "surname": "usr_surname",
+      "password": "",
+      "dob": "usr_dateOfBrith",
+      "group": "group 1",
+      "id": 30
+    },
+    {
+      "nick": "usr_nick",
+      "name": "usr_name",
+      "surname": "usr_surname",
+      "password": "",
+      "dob": "usr_dateOfBrith",
+      "group": "group 1",
+      "id": 31
+    },
+    {
+      "nick": "usr_nick",
+      "name": "usr_name",
+      "surname": "usr_surname",
+      "password": "",
+      "dob": "usr_dateOfBrith",
+      "group": "group 1",
+      "id": 32
+    },
+    {
+      "nick": "usr_nick",
+      "name": "usr_name",
+      "surname": "usr_surname",
+      "password": "",
+      "dob": "usr_dateOfBrith",
+      "group": "group 1",
+      "id": 33
+    },
+    {
+      "nick": "s",
+      "name": "fe",
+      "surname": "j",
+      "password": "j",
+      "dob": "j",
+      "group": "group 1",
+      "id": 34
+    },
+    {
+      "nick": "s",
+      "name": "fe",
+      "surname": "j",
+      "password": "",
+      "dob": "j",
+      "group": "group 1",
+      "id": 35
+    },
+    {
+      "nick": "s",
+      "name": "fe",
+      "surname": "j",
+      "password": "",
+      "dob": "j",
+      "group": "group 1",
+      "id": 36
+    },
+    {
+      "nick": "s",
+      "name": "fe",
+      "surname": "",
+      "password": "",
+      "dob": "j",
+      "group": "group 1",
+      "id": 37
+    },
+    {
+      "nick": "h",
+      "name": "h",
+      "surname": "h",
+      "password": "h",
+      "dob": "h",
+      "group": "group 1",
+      "id": 38
+    },
+    {
+      "nick": "y",
+      "name": "y",
+      "surname": "y",
+      "password": "y",
+      "dob": "y",
+      "group": "group 1",
+      "id": 39
+    },
+    {
+      "nick": "y",
+      "name": "y",
+      "surname": "y",
+      "password": "y",
+      "dob": "y",
+      "group": "group 1",
+      "id": 40
+    },
+    {
+      "nick": "p",
+      "name": "p",
+      "surname": "p",
+      "password": "p",
+      "dob": "l",
+      "group": "group 1",
+      "id": 41
+    },
+    {
+      "nick": "o",
+      "name": "o",
+      "surname": "o",
+      "password": "o",
+      "dob": "o",
+      "group": "group 1",
+      "id": 42
+    },
+    {
+      "nick": "m",
+      "name": "o",
+      "surname": "o",
+      "password": "o",
+      "dob": "o",
+      "group": "group 1",
+      "id": 43
+    },
+    {
+      "nick": "k",
+      "name": "k",
+      "surname": "k",
+      "password": "k",
+      "dob": "k",
+      "group": "group 1",
+      "id": 44
+    },
+    {
+      "nick": "k",
+      "name": "k",
+      "surname": "k",
+      "password": "pp",
+      "dob": "k",
+      "group": "group 1",
+      "id": 45
+    },
+    {
+      "nick": "k",
+      "name": "k",
+      "surname": "k",
+      "password": "k",
+      "dob": "k",
+      "group": "group 1",
+      "id": 46
+    },
+    {
+      "nick": "k",
+      "name": "k",
+      "surname": "k",
+      "password": "k",
+      "dob": "k",
+      "group": "group 1",
+      "id": 47
+    },
+    {
+      "nick": "k",
+      "name": "k",
+      "surname": "k",
+      "password": "kasdfghjk",
+      "dob": "k",
+      "group": "group 1",
+      "id": 48
+    },
+    {
+      "nick": "j",
+      "name": "j",
+      "surname": "j",
+      "password": "j00000m",
+      "dob": "n",
+      "group": "group 1",
+      "id": 49
+    },
+    {
+      "nick": "j",
+      "name": "j",
+      "surname": "j",
+      "password": "XXX",
+      "dob": "j",
+      "group": "group 1",
+      "id": 50
+    },
+    {
+      "nick": "p",
+      "name": "o",
+      "surname": "l",
+      "password": "plmokm",
+      "dob": "w",
+      "group": "group 1",
+      "id": 51
+    }
+  ]
+}
