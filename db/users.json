@@ -1,40 +1,76 @@
 {
   "users": [
     {
-      "nick": "fgh",
-      "name": "fgh",
-      "surname": "fgh",
-      "password": "fghdfgh",
-      "dob": "fgh",
+      "nick": "Janosik",
+      "name": "Marek",
+      "surname": "Perypeczko",
+      "password": "haslo123",
+      "dob": "1955-12-12",
       "group": "group 1",
       "id": 1
     },
     {
-      "nick": "fgh",
-      "name": "fgh",
-      "surname": "fgh",
-      "password": "fghdfgh",
-      "dob": "fgh",
+      "nick": "Menda",
+      "name": "Marian",
+      "surname": "Paździoch",
+      "password": "asdzcx",
+      "dob": "1945-02-06",
       "group": "group 1",
       "id": 2
     },
     {
-      "nick": "fgh",
-      "name": "fgh",
-      "surname": "fgh",
-      "password": "fghdfgh",
-      "dob": "fgh",
-      "group": "group 1",
+      "nick": "President",
+      "name": "Alek",
+      "surname": "Kwaśniewski",
+      "password": "presidek",
+      "dob": "1960-05-11",
+      "group": "group 2",
       "id": 3
     },
     {
-      "nick": "fgh",
-      "name": "fgh",
-      "surname": "fgh",
-      "password": "fghdfgh",
-      "dob": "fgh",
+      "nick": "Olek",
+      "name": "Krystian",
+      "surname": "Krystek",
+      "password": "alalalal",
+      "dob": "1992-01-02",
       "group": "group 1",
-      "id": 4
+      "id": 5
+    },
+    {
+      "nick": "Jula",
+      "name": "Jola",
+      "surname": "Jolanta",
+      "password": "joljoljol",
+      "dob": "1980-09-02",
+      "group": "group 1",
+      "id": 6
+    },
+    {
+      "nick": "Monik",
+      "name": "Monik",
+      "surname": "Ratownika",
+      "password": "qoqoqoqo",
+      "dob": "1995-06-14",
+      "group": "group 2",
+      "id": 7
+    },
+    {
+      "nick": "Kaczor",
+      "name": "Donald",
+      "surname": "Duck",
+      "password": "kaczka1212",
+      "dob": "1934-06-06",
+      "group": "group 2",
+      "id": 8
+    },
+    {
+      "nick": "F1",
+      "name": "Robert",
+      "surname": "Kubica",
+      "password": "rajd123",
+      "dob": "1979-07-06",
+      "group": "group 1",
+      "id": 9
     }
   ]
 }

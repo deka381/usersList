@@ -6,6 +6,7 @@
     <link rel="stylesheet" href="css/style.css">
     <script src="http://code.jquery.com/jquery-2.2.1.min.js"></script>
     <script src="./js/app.js"></script>
+
 </head>
 
 <body>
@@ -20,35 +21,40 @@
         <label> Surname:
             <input type="text" value="" class="get_surname">
         </label>
-        <label> password:
+        <label> Password:
             <input type="password" value="" class="get_password">
         </label>
         <label> Date of brith:
-            <input type="text" value="" class="get_dob">
+            <input type="date" value="" class="get_dob">
         </label>
-        <span>
-          Group:
-        </span>
-        <select name="group" class="get_group">Group:
+        <label> Group:
+        <select name="group" class="get_group">
           	  <option>group 1</option>
           	  <option>group 2</option>
-        </select><br  />
+        </select>
+      </label>
         <input type="submit" id="addUsr" value="Add new user"/>
     </form>
 
     <p class="error"></p>
 
-    <table class="user_list">
+    <table class="user_list_table ">
+      <thead>
+
       <tr class="first_tr">
-        <td>Nick</td>
-        <td>Name</td>
-        <td>Surname</td>
-        <td>Password</td>
-        <td>Date of brith</td>
-        <td>Group</td>
+        <td class="first_nick">Nick</td>
+        <td class="first_name">Name</td>
+        <td class="first_surname">Surname</td>
+        <td class="first_password">Password</td>
+        <td class="first_dob">Date of brith</td>
+        <td class="first_group">Group</td>
         <td>Edit Button</td>
         <td>Delete Button</td>
       </tr>
+    </thead>
+      <tbody class="user_list">
+
+    </tbody>
     </table>
 
 

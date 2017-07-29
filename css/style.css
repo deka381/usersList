@@ -5,12 +5,29 @@
 body {
   margin: 0 auto;
   width: 700px;
+  background:rgba(113, 191, 0, 0.3);
 }
 span{
   margin-left: 20px;
 }
-.user_list {
+thead{
+  padding: 10px;
+  list-style: none;
+}
+.add_usr{
+  height: 200px;
+}
+.add_usr label{
+  width: 50%;
+  float: left;
+  padding-left: 50px;
+}
 
+.add_usr input{
+  background: rgba(205, 205, 205, 0.5);
+  width: 100%;
+}
+.user_list {
   padding: 10px;
   list-style: none;
 }
@@ -19,27 +36,32 @@ span{
   padding: 10px;
 }
 
-
 .user_list tr:nth-of-type(2n+1) {
-  background-color: green;
+  background-color: rgba(13,166,111,0.2);
 }
 .user_list tr:nth-of-type(2n+2) {
-  background-color: #F2A2A2;
+  background-color: rgba(65, 140, 109, 0.5);
 }
-.user_list .first_tr{
+.first_tr{
   background: rgba(0, 0, 0, 0.5)!important;
 }
 .user_list td {
   padding: 10px;
   width: 100px;
-
 }
-
-
-
 .editable {
-  background-color: white !important;
+  background-color:rgba(222,111,111,0.6) !important;
   border: 1px solid black;
+}
+.editable input{
+  width: 100px;
+}
+.editable input.dob_edit{
+  width: 150px;
+}
+.editable button{
+  margin-left: auto;
+  margin-right: auto;
 }
 label {
   display: block;
@@ -48,13 +70,34 @@ label {
 button {
   display: block;
   margin-top: 10px;
+  border-radius: 4px;
+  border: none;
+}
+button.edit {
+background: rgba(65, 250, 129, 0.9);
+}
+button.edit:hover {
+background: #43F547;
 }
 
+button.delete {
+background: rgba(250,111,111,0.9);
+}
+button.delete:hover {
+background: #CD0037;
+}
+.get_group{
+  margin-top: 20px;
+}
 #addUsr {
-  margin-top: 30px;
-  background-color: orange;
+  position: relative;
+  width: 30%;
+  margin-top: 5px;
+  background-color:  #FFBC42;
+  border-radius: 4px;
   color: white;
   border: none;
-  padding: 6px 10px;
+  padding: 6px 7px;
   font-size: 16px;
+  top: 25px;
 }
